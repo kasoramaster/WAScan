@@ -16,10 +16,10 @@ from lib.utils.printer import *
 NAME = argv[0]
 
 # tool version
-VERSION = "v0.2.1"
+VERSION = "v1.2.1"
 
 # author
-AUTHOR = "Momo Outaadi (M4ll0k)"
+AUTHOR = "LUTHER SMITH (@binmanager)"
 
 # description
 DESCRIPTION = "Web Application Scanner"
